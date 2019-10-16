@@ -1,0 +1,7 @@
+*.zip
+gerber
+gerbers
+*.sch-bak
+*.net
+*.kicad_pcb-bak
+_autosave*
